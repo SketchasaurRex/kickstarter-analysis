@@ -14,8 +14,8 @@
 ## Analysis of Outcomes Based on Launch Date
 ### Collecting the outcomes of the Kickstarters into successful, failed, and canceled groupings helped show some of what would make for a successful play. Converting the data into visual charts made it easier to show what works. Most of the successful campaigns were in May with the fewest in December. October launch dates had the highest amount of failed campaigns.
 
-### Analysis of Outcomes Based on Goals
-#### Adding the charts made it visually apparent that high value plays were very risky and the plays with the highest range of success. 
+## Analysis of Outcomes Based on Goals
+### Adding the charts made it visually apparent that high value plays were very risky and the plays with the highest range of success. 
 
 ## Challenges and Difficulties Encountered
 ### Troubles in writing proper countifs formula, adding all the correct columns and cells. At first I missed adding one column altogether and added a wrong column by misreading resulting in a very odd line chart. After properly adding in the Plays and linking to the other column the line chart became very readable.
